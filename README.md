@@ -1,1 +1,1 @@
-# gamemode-hopesty-theater-roleplay
+# buat spawn kendraan di satu posisi dh
